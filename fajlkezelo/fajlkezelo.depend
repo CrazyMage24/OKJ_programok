@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1567860193 source:c:\users\gábor\desktop\fajlkezelo\main.cpp
+	<iostream>
+	<dirent.h>
+	<windows.h>
+	"osztaly.h"
+
+1567769462 c:\users\gábor\desktop\fajlkezelo\osztaly.h
+	<string>
+	<time.h>
+	<fstream>
+	<sstream>
+
+1567769507 source:c:\users\gábor\desktop\fajlkezelo\osztaly.cpp
+	"osztaly.h"
+	<iostream>
+

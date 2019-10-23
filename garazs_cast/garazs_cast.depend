@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1560992474 source:c:\users\gábor\desktop\projektek\alkalmazás-fejlesztés\c++\garazs_cast\main.cpp
+	<iostream>
+	"osztaly.h"
+
+1560992298 c:\users\gábor\desktop\projektek\alkalmazás-fejlesztés\c++\garazs_cast\osztaly.h
+	<string>
+	<vector>
+
+1560992282 source:c:\users\gábor\desktop\projektek\alkalmazás-fejlesztés\c++\garazs_cast\osztaly.cpp
+	<iostream>
+	<sstream>
+	"osztaly.h"
+
