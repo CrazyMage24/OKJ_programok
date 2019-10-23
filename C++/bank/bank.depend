@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1560731221 source:c:\users\gábor\desktop\projektek\alkalmazás-fejlesztés\c++\bank\main.cpp
+	<iostream>
+	"osztaly.h"
+
+1560731075 c:\users\gábor\desktop\projektek\alkalmazás-fejlesztés\c++\bank\osztaly.h
+	<iostream>
+
+1560731075 source:c:\users\gábor\desktop\projektek\alkalmazás-fejlesztés\c++\bank\osztaly.cpp
+	<iostream>
+	<sstream>
+	"osztaly.h"
+
